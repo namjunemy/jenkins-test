@@ -14,7 +14,7 @@ public class Receipt {
 
 	public Receipt() {
 	}
-
+	
 	public Receipt setrNo(int rNo) {
 		this.rNo = rNo;
 		return this;
