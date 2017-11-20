@@ -40,7 +40,7 @@
   <div class="container">
     <h1>롯데홈쇼핑</h1>
     <p>
-    <h3>'One Lotte'를 위해서 계열사의 통합서비스를 위한 반응형 웹 어플리케이션을 개발중입니다.</h3></p>
+    <h3>'One Lotte'를 위해서 계열사의 통합 서비스를 위한 반응형 웹 어플리케이션을 개발중입니다.</h3></p>
     <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
   </div>
 </div>
